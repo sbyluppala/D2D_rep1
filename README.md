@@ -31,7 +31,7 @@ Download and setup [GitHub Desktop](https://help.github.com/en/desktop/getting-s
 
 
 # Roadmap
- As of **09/12/2019**, two assignemts are yet to be worked on and will be updated soon.
+ Updated as of 09/26/2019.
  * [**Data Entry Analysis**](https://github.com/sbyluppala/D2D_rep1/blob/master/DataEntryAnalysis)
  * [**Data Exploration**](https://github.com/sbyluppala/D2D_rep1)
 
