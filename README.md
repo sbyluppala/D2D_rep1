@@ -33,7 +33,7 @@ Download and setup [GitHub Desktop](https://help.github.com/en/desktop/getting-s
 # Roadmap
  Updated as of 09/26/2019.
  * [**Data Entry Analysis**](https://github.com/sbyluppala/D2D_rep1/blob/master/DataEntryAnalysis)
- * [**Data Exploration**](https://github.com/sbyluppala/D2D_rep1)
+ * [**Data Exploration**](https://github.com/sbyluppala/D2D_rep1/blob/master/DataExploration/HurricaneIsland_DataExploration_Swetha.md)
 
 # License
 This repository is licensed under the permissive open source MIT license.
